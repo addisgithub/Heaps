@@ -1,6 +1,6 @@
 # Heaps Implementation
 
-The main function shows the implementation of different functions in hepas(meldable heaps)
+The main function shows the implementation of different functions in heaps(meldable heaps)
 
 # Source 
 
