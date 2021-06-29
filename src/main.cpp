@@ -1,7 +1,6 @@
 /**
  * @file main.cpp
  * @brief This is a Heap Implementation.
- * @details This is the long brief at the top of main.cpp.
  * @author Addis Bogale
  * @date 3/29/2021
  * 
